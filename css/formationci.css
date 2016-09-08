@@ -1,0 +1,17 @@
+.bg-primary {
+  background-color: #35478C;
+}
+.text-primary {
+    color: #35478C;
+}
+.btn-primary {
+    background-color: #35478C;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:focus {
+    background-color: #7FB2F0;
+    border-color: #7FB2F0;
+}
+
+.portfolio-box .portfolio-box-caption {
+    background-color: #35478C;
+}
