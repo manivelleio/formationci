@@ -13,10 +13,12 @@ hr {
 .text-primary {
     color: #35478C;
 }
+
 .navbar-default .navbar-header .navbar-brand:focus, .navbar-default .navbar-header .navbar-brand {
     color: white;
   
 }
+
 .navbar-default .navbar-header .navbar-brand:focus, .navbar-default .navbar-header .navbar-brand:hover {
     color: #87CEEB;
 }
@@ -29,6 +31,7 @@ header .header-content .header-content-inner p {
 .btn-primary {
     background-color: #35478C;
 }
+
 .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:focus {
     background-color: #7FB2F0;
     border-color: #7FB2F0;
@@ -39,7 +42,7 @@ header .header-content .header-content-inner p {
 }
 
 a {
-    color: #87CEEB;
+    color: #337ab7;
 }
 
 a:hover {
@@ -60,4 +63,12 @@ a .navbar-brand .page-scroll {
 
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
     color : #87CEEB!important;
+}
+
+.text-justify{
+    padding-bottom: 15px;
+}
+
+#lg {
+    padding-bottom: 15px;
 }
