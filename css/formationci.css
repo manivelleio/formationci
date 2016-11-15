@@ -18,7 +18,7 @@ hr {
   
 }
 .navbar-default .navbar-header .navbar-brand:focus, .navbar-default .navbar-header .navbar-brand:hover {
-    color: #7FB2F0;
+    color: #87CEEB;
 }
 
 header .header-content .header-content-inner p {
@@ -39,9 +39,25 @@ header .header-content .header-content-inner p {
 }
 
 a {
-    color: #35478C;
+    color: #87CEEB;
 }
 
 a:hover {
-   color: #7FB2F0; 
+   color: #87CEEB; 
+}
+
+a .navbar-brand .page-scroll {
+    color : #87CEEB;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand {
+    color : black;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand:focus, .navbar-default.affix .navbar-header .navbar-brand:hover {
+    color : #87CEEB;
+}
+
+.navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
+    color : #87CEEB!important;
 }
