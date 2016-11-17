@@ -3,7 +3,8 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-html, body {
+html,
+body {
   height: 100%;
   width: 100%;
 }
@@ -24,10 +25,16 @@ a {
   transition: all 0.35s;
   color: #F05F40;
 }
-a:hover, a:focus {
+a:hover,
+a:focus {
   color: #eb3812;
 }
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 p {
@@ -98,8 +105,7 @@ aside {
 .navbar-default .nav > li.active > a:focus:hover {
   background-color: transparent;
 }
-@media (min-width: 768px)
-{
+@media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
     border-color: rgba(255, 255, 255, 0.3);
@@ -140,7 +146,6 @@ aside {
     color: #F05F40;
   }
 }
-
 header {
   position: relative;
   width: 100%;
@@ -154,14 +159,12 @@ header {
   text-align: center;
   color: white;
 }
-
 header .header-content {
   position: relative;
   text-align: center;
   padding: 100px 15px 100px;
   width: 100%;
 }
-
 header .header-content .header-content-inner h1 {
   font-weight: 700;
   text-transform: uppercase;
@@ -169,24 +172,19 @@ header .header-content .header-content-inner h1 {
   margin-bottom: 0;
   font-size: 30px;
 }
-
 header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
-
 header .header-content .header-content-inner p {
   font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
   font-size: 16px;
   margin-bottom: 50px;
 }
-
-@media (min-width: 768px)
-{
+@media (min-width: 768px) {
   header {
     min-height: 100%;
   }
-
   header .header-content {
     position: absolute;
     top: 50%;
@@ -195,17 +193,14 @@ header .header-content .header-content-inner p {
     transform: translateY(-50%);
     padding: 0 50px;
   }
-
   header .header-content .header-content-inner {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
   }
-
   header .header-content .header-content-inner h1 {
     font-size: 50px;
   }
-
   header .header-content .header-content-inner p {
     font-size: 18px;
     max-width: 80%;
@@ -220,17 +215,14 @@ header .header-content .header-content-inner p {
   max-width: 400px;
   margin: 50px auto 0;
 }
-@media (min-width: 992px)
-{
+@media (min-width: 992px) {
   .service-box {
     margin: 20px auto 0;
   }
 }
-
 .service-box p {
   margin-bottom: 0;
 }
-
 .portfolio-box {
   position: relative;
   display: block;
@@ -277,8 +269,7 @@ header .header-content .header-content-inner p {
 .portfolio-box:focus {
   outline: none;
 }
-@media (min-width: 768px)
-{
+@media (min-width: 768px) {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     font-size: 16px;
   }
