@@ -1,17 +1,17 @@
 hr {
-    border-color: #35478C;
+    border-color: #87CEEB;
 }
 
 .bg-primary {
-  background-color: #35478C;
+  background-color: #87CEEB;
 }
 
 .bg-primary-alt {
-   background-color: #e3e3e3;
+   background-color: #EFEFEF;
 }
 
 .text-primary {
-    color: #35478C;
+    color: #87CEEB;
 }
 
 .navbar-default .navbar-header .navbar-brand:focus, .navbar-default .navbar-header .navbar-brand {
@@ -29,7 +29,7 @@ header .header-content .header-content-inner p {
 
 
 .btn-primary {
-    background-color: #35478C;
+    background-color: #87CEEB;
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:focus {
