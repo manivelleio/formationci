@@ -70,5 +70,9 @@ a .navbar-brand .page-scroll {
 }
 
 #logo {
-    padding-bottom: 15px;
+    padding-bottom: 0px;
+}
+
+#nordouvert {
+    padding-bottom: 10px;
 }
