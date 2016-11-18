@@ -69,6 +69,6 @@ a .navbar-brand .page-scroll {
     padding-bottom: 15px;
 }
 
-#logo {
-    padding-bottom: 0px;
+#logo img {
+    width:50%;
 }
