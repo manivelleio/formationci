@@ -73,3 +73,7 @@ a .navbar-brand .page-scroll {
 #logo img {
     width:50%;
 }
+
+div.col-lg-4.text-center {
+    margin-left: 33%;
+}
